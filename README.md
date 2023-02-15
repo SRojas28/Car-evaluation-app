@@ -19,6 +19,7 @@ Make sure you have these dependencies latest versions installed:
 - [Pillow](https://pillow.readthedocs.io/en/stable/)
 - [Pandas](https://pandas.pydata.org/docs/)
 - [SkLearn](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
+- [Dash](https://dash.plotly.com/)
 
 # Running the code
 To run the software you need to type ``` python3 main.py ``` on the terminal. It is also important to run the command ``` python3 start_server.py ``` to get the web server running.
