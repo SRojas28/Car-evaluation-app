@@ -28,5 +28,9 @@ The server is located at ``` http://127.0.0.1:8050/ ``` by default.
 
 # Images of the software and server
 
-![image](https://user-images.githubusercontent.com/62435399/218929197-9ffa5991-c7d6-4cd0-a8ff-9cc719b31e32.png)
-![image](https://user-images.githubusercontent.com/62435399/218929345-afbf2f0f-9e92-40fe-8b94-ea9dde08315f.png)
+<img src="https://user-images.githubusercontent.com/62435399/218929197-9ffa5991-c7d6-4cd0-a8ff-9cc719b31e32.png" width="250">
+<img src="https://user-images.githubusercontent.com/62435399/218929345-afbf2f0f-9e92-40fe-8b94-ea9dde08315f.png" width="700">
+
+# Authors
+- [Paola Castro](https://github.com/C-Paola)
+- [Sebastian Rojas](https://github.com/SRojas28)
